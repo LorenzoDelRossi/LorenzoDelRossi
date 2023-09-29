@@ -4,7 +4,7 @@ Hi 👋 My name is Lorenzo Del Rossi
 Master Computer Engineer
 ------------------------
 
-*   🌍  I'm based in Modena, Italy
+*   🌍  I'm based in Pescara, Italy
 *   🖥️  See my portfolio at [My Website](http://lorenzodelrossi.com)
 *   ✉️  You can contact me at [info@lorenzodelrossi.com](mailto:info@lorenzodelrossi.com)
 ### Skills
